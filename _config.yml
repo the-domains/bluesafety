@@ -1,0 +1,28 @@
+name: bluesafety
+favicon: null
+layout_spectrum: 0.8206033443566412
+typography_spectrum: 0.5532850068993866
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9307130670640618
+  lightness: 0.8506061593070626
+  saturation: 0.5956195259932429
+  rhythmicContrast: 0.11066402890719473
+purpose: []
